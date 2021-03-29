@@ -34,6 +34,13 @@ To leave the environment:
 
 ----
 
+# TO-DO
+
+- Write setup.py (https://docs.python.org/3/distutils/introduction.html)
+- Write unit tests (https://docs.python.org/3/library/unittest.html)
+
+----
+
 # Dependencies
 
 Bitbucket lib - https://pypi.org/project/bitbucket-api/
