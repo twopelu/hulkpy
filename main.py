@@ -2,9 +2,9 @@ import sys
 
 # import webview
 
-from bitbucket_manager import BitbucketManager
+from hulk import BitbucketManager
 
-print("HULK The Incredible say hi!")
+print("HULK The Incredible says hi!")
 
 if len(sys.argv) < 3:  # sys.argv[0] is the command itself
     print("HULK usage is: hulk <username> <password>")
@@ -20,4 +20,4 @@ bb_man.list_repos()
 # window = webview.create_window("BitBucket", "https://bitbucket.org/twopelu/")
 # webview.start()
 
-print("HULK The Incredible say bye!")
+print("HULK The Incredible says bye!")
