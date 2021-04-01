@@ -36,6 +36,7 @@ To leave the environment:
 
 # TO-DO
 
+- Clear unused code in scripts.js and index.html of the web in /assets
 - Write setup.py (https://docs.python.org/3/distutils/introduction.html)
 - Write unit tests (https://docs.python.org/3/library/unittest.html)
 
@@ -48,6 +49,8 @@ Bitbucket lib - https://pypi.org/project/bitbucket-api/
 https://bitbucket-api.readthedocs.io/en/latest/index.html
 
 WebView lib - https://pypi.org/project/pywebview/
+
+https://pywebview.flowrl.com/guide/
 
 # References
 
